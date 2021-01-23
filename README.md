@@ -1,1 +1,1 @@
-# mine
+# mine my first repository
